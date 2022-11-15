@@ -185,7 +185,7 @@ This warehouse is a collection of personal favorite fcitx themes, icon themes an
 
 Since I am a 'Linux' Xiaobai, I found that not all themes can be used. You are welcome to modify and optimize. </br>
 
-- [` deep bloom themes `]((https://github.com/jidro/favorites-themes/tree/master/icon-themes/deepin-blossom-themes "deepin-blossom-themes") ) in [` icon themes `]((https://github.com/jidro/favorites-themes/tree/master/icon-themes/deepin-blossom-themes "deepin-blossom-themes") ) cannot be used directly at the moment, but can be installed directly from the software source. </br>
+- [` deep bloom themes `](https://github.com/jidro/favorites-themes/tree/master/icon-themes/deepin-blossom-themes "deepin-blossom-themes") in [` icon themes `](https://github.com/jidro/favorites-themes/tree/master/icon-themes/deepin-blossom-themes "deepin-blossom-themes") cannot be used directly at the moment, but can be installed directly from the software source. </br>
 
 ---
 
